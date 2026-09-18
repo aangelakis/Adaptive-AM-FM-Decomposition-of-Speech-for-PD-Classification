@@ -67,8 +67,8 @@ Each file assigns every speaker to one outer fold per repeat (`Repeat_1_Fold` �
 
 The 18 eaQHM-based features are:
 
-- **AM features:** Amplitude Variation of harmonics $H_1$–$H_5$ and the Normalised first difference of $A_1$ (`ampl_var_H1` … `ampl_var_H5`, `A1_norm_diff`)
-- **FM features:** Frequency Variation of harmonics $H_1$–$H_5$ and the Normalised first difference of $f_0$ (`freq_var_H1` … `freq_var_H5`, `f0_norm_diff`)
+- **AM features:** Amplitude Variation of harmonics $H_1$ - $H_5$ and the Normalised first difference of $A_1$ (`ampl_var_H1` … `ampl_var_H5`, `A1_norm_diff`)
+- **FM features:** Frequency Variation of harmonics $H_1$ - $H_5$ and the Normalised first difference of $f_0$ (`freq_var_H1` … `freq_var_H5`, `f0_norm_diff`)
 - **Spectral and Teager-energy features:** Five-harmonic Spectral Centroid (mean, std), Quasi-Harmonic-Amplitude Flux (mean, max) and Teager-inspired Parametric Energy (mean, std)
 
 ## Evaluation protocol
