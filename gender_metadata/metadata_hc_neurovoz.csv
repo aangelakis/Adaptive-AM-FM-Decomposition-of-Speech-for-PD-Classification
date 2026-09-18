@@ -1,0 +1,1445 @@
+ID,Group,Date ,Sex,Age,Diagnosis,Vocal tremor,Cephalic tremor,Mandibular tremor,Sialorrhoea,Dysphagia,Hypophonic voice,Time Disease (years),UPDRS scale,H-Y Stadium,Date Evaluation Scales ,Medication ,Medication status,Occupation,Fiber/VocalFolds,Observations,Doctor,Audio
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ABLANDADA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PIDIO_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_BURRO_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_E2_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_GANGA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_I1_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_O3_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_MANGA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PAN_VINO_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_O2_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ESPONTANEA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_O1_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ACAMPADA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_A1_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_E3_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PERRO_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_SOMBRA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_BARBAS_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_DIABLO_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_I3_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PATAKA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_TOMAS_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PATATA_BLANDA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PETACA_BLANCA_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_I2_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_U1_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_A3_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_CARMEN_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_A2_0034.wav
+34,HC,2016-05-01,1.0,77.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_CALLE_0034.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_PIDIO_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_DIABLO_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_A2_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_PATAKA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_E2_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_PAN_VINO_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_PETACA_BLANCA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_ABLANDADA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_MANGA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_TOMAS_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_CARMEN_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_O1_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_BARBAS_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_U1_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_CALLE_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_ACAMPADA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_A1_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_I1_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_BURRO_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_SOMBRA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_PERRO_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_GANGA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_PATATA_BLANDA_0036.wav
+36,HC,2016-06-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,enfermera,Normal,PAC nephew 35,,data/audios/HC_ESPONTANEA_0036.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_SOMBRA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_DIABLO_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_PATATA_BLANDA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_I2_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_CARMEN_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_GANGA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_BURRO_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_ESPONTANEA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_PAN_VINO_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_E2_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_BARBAS_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_I1_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_U1_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_CALLE_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_A1_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_ABLANDADA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_TOMAS_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_PETACA_BLANCA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_O1_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_MANGA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_A2_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_PERRO_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_O2_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_ACAMPADA_0045.wav
+45,HC,2016-08-01,1.0,56.0,normal-fumador,0,0,0,0,0,0,,,,,,ON,ingeniero,Not performed,"Former smoker years ago, quit smoking for 1 week, GRBAS=5",,data/audios/HC_PIDIO_0045.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_PIDIO_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_E2_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_ABLANDADA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_A1_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_CALLE_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_PATATA_BLANDA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_O1_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_MANGA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_CARMEN_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_PATAKA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_A2_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_BARBAS_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_GANGA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_TOMAS_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_DIABLO_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_PERRO_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_I1_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_PAN_VINO_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_U1_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_PETACA_BLANCA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_BURRO_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_SOMBRA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_ESPONTANEA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_ACAMPADA_0048.wav
+48,HC,2016-09-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,informatico,Not performed,,,data/audios/HC_O2_0048.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I2_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0049.wav
+49,HC,2016-09-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0049.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_A2_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_ACAMPADA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_I1_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_CARMEN_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_PAN_VINO_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_TOMAS_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_PATATA_BLANDA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_SOMBRA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_E2_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_BURRO_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_CALLE_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_O1_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_A1_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_O2_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_ABLANDADA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_PERRO_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_ESPONTANEA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_GANGA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_PIDIO_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_BARBAS_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_U1_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_PETACA_BLANCA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_I2_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_DIABLO_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_MANGA_0051.wav
+51,HC,2016-11-01,1.0,69.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Acto extremeño ,,data/audios/HC_PATAKA_0051.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I2_0052.wav
+52,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0052.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_PERRO_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_MANGA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_PATATA_BLANDA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_TOMAS_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_I2_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_O2_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_ESPONTANEA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_I1_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_CALLE_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_DIABLO_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_A2_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_ACAMPADA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_E2_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_ABLANDADA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_BARBAS_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_BURRO_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_PAN_VINO_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_O1_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_SOMBRA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_GANGA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_U1_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_PETACA_BLANCA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_A1_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_PIDIO_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_PATAKA_0053.wav
+53,HC,2016-11-01,0.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Hearing aids in both ears, OI: severe loss, OD: mild loss, hearing well does not affect any test",,data/audios/HC_CARMEN_0053.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I2_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0054.wav
+54,HC,2016-11-01,0.0,58.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0054.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_A1_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_O2_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_ESPONTANEA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_CALLE_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_DIABLO_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_CARMEN_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_O1_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_BURRO_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_MANGA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_GANGA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_PATAKA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_I1_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_PERRO_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_PIDIO_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_ACAMPADA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_PETACA_BLANCA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_E2_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_U1_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_ABLANDADA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_A2_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_PATATA_BLANDA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_BARBAS_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_PAN_VINO_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_I2_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_SOMBRA_0055.wav
+55,HC,2016-11-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,professor,Normal,,,data/audios/HC_TOMAS_0055.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I2_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0056.wav
+56,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0056.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0060.wav
+60,HC,2016-11-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0060.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_BARBAS_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_TOMAS_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_SOMBRA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_PETACA_BLANCA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_PERRO_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_PATAKA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_DIABLO_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_PAN_VINO_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_E2_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_I1_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_CALLE_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_ACAMPADA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_BURRO_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_PIDIO_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_A1_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_O1_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_U1_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_MANGA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_GANGA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_ESPONTANEA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_O2_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_PATATA_BLANDA_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_A2_0061.wav
+61,HC,2016-11-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,housekeeper,Right hypothonic vocal cord,"Prosthesis on the palate, it was a little costyped.",,data/audios/HC_ABLANDADA_0061.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_BARBAS_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_ESPONTANEA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_PERRO_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_PIDIO_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_O1_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_BURRO_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_ABLANDADA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_O2_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_TOMAS_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_PATAKA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_DIABLO_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_ACAMPADA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_PAN_VINO_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_A1_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_U1_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_I1_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_E2_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_CALLE_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_MANGA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_PETACA_BLANCA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_SOMBRA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_A2_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_GANGA_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_CARMEN_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_I2_0062.wav
+62,HC,2016-11-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Cover on superior teeth, in the recording of DKK one could sometimes hear a whistling",,data/audios/HC_PATATA_BLANDA_0062.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_A2_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_E2_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_PETACA_BLANCA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_ESPONTANEA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_O2_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_PATAKA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_CARMEN_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_BURRO_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_ABLANDADA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_MANGA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_I1_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_PERRO_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_ACAMPADA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_GANGA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_A1_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_PIDIO_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_DIABLO_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_SOMBRA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_O1_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_PATATA_BLANDA_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_TOMAS_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_U1_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_CALLE_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_PAN_VINO_0063.wav
+63,HC,2016-11-01,0.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,Andalusian accent,,data/audios/HC_BARBAS_0063.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0064.wav
+64,HC,2016-11-01,1.0,73.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0064.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0065.wav
+65,HC,2016-11-01,0.0,72.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0065.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_MANGA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_TOMAS_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_O1_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_PAN_VINO_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_O2_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_PATAKA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_CARMEN_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_U1_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_PIDIO_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_PETACA_BLANCA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_A1_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_PATATA_BLANDA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_PERRO_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_SOMBRA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_DIABLO_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_A2_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_E2_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_GANGA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_BURRO_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_ABLANDADA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_CALLE_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_BARBAS_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_I1_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_ESPONTANEA_0071.wav
+71,HC,2016-12-01,0.0,83.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Operated cataract, lens eyes, difficult to calibrate",,data/audios/HC_ACAMPADA_0071.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_A1_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_E2_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_O1_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_PERRO_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_BURRO_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_CALLE_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_I2_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_MANGA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_PETACA_BLANCA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_A2_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_PIDIO_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_ABLANDADA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_I1_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_GANGA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_PATAKA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_ACAMPADA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_O2_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_SOMBRA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_ESPONTANEA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_CARMEN_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_U1_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_BARBAS_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_PATATA_BLANDA_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_TOMAS_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_PAN_VINO_0072.wav
+72,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Presbiacusia, but if I spoke louder, I heard everything very well, I listened to everything. In the vowels some noise from dental implants.",,data/audios/HC_DIABLO_0072.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_BARBAS_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PATATA_BLANDA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_E2_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PAN_VINO_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_A2_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_O1_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_CARMEN_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ESPONTANEA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_A1_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PETACA_BLANCA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PATAKA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_I2_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_GANGA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_TOMAS_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PIDIO_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_SOMBRA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_DIABLO_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_O2_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PERRO_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_MANGA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_U1_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ACAMPADA_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_I1_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_BURRO_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_CALLE_0073.wav
+73,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ABLANDADA_0073.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PIDIO_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_A2_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ESPONTANEA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_A1_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_O2_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ABLANDADA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_U1_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_CALLE_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_I1_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_O1_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_E2_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_ACAMPADA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_SOMBRA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_BARBAS_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_MANGA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PETACA_BLANCA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_TOMAS_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_BURRO_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_CARMEN_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PAN_VINO_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PATATA_BLANDA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_DIABLO_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PATAKA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_GANGA_0074.wav
+74,HC,2016-12-01,1.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,,,data/audios/HC_PERRO_0074.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_ABLANDADA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_CARMEN_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_PATAKA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_PIDIO_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_PAN_VINO_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_PATATA_BLANDA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_TOMAS_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_I1_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_O2_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_PERRO_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_A2_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_GANGA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_A1_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_DIABLO_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_CALLE_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_SOMBRA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_MANGA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_O1_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_ACAMPADA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_ESPONTANEA_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_BURRO_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_U1_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_BARBAS_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_E2_0075.wav
+75,HC,2016-12-01,0.0,74.0,normal,0,0,0,0,0,0,,,,,,,retired,Not performed,"Bilateral hearing loss, hearing aid, written phrases because I didn't discriminate against recordings (I didn't listen well)",,data/audios/HC_PETACA_BLANCA_0075.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I2_0076.wav
+76,HC,2016-12-01,1.0,68.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0076.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_PERRO_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_O1_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_ACAMPADA_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_GANGA_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_A2_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_A1_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_PETACA_BLANCA_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_CALLE_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_PATATA_BLANDA_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_ESPONTANEA_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_U1_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_PIDIO_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_SOMBRA_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_BURRO_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_DIABLO_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_I1_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_PAN_VINO_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_BARBAS_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_TOMAS_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_O2_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_I2_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_ABLANDADA_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_E2_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_CARMEN_0080.wav
+80,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,trabaja,Not performed,,,data/audios/HC_MANGA_0080.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I2_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0081.wav
+81,HC,2016-12-01,1.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0081.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_ACAMPADA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_GANGA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_TOMAS_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_SOMBRA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_PATATA_BLANDA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_PERRO_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_DIABLO_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_PATAKA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_CARMEN_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_A1_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_A2_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_PAN_VINO_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_MANGA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_I1_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_PETACA_BLANCA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_I2_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_ESPONTANEA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_E2_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_O2_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_BURRO_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_ABLANDADA_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_U1_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_CALLE_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_PIDIO_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_BARBAS_0082.wav
+82,HC,2016-12-01,0.0,67.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Chilean, but has been living in Spain for 40 years, no accent on recordings",,data/audios/HC_O1_0082.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_I1_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_I2_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_GANGA_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_PETACA_BLANCA_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_MANGA_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_PIDIO_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_U1_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_ACAMPADA_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_DIABLO_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_A2_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_ABLANDADA_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_TOMAS_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_O1_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_ESPONTANEA_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_BURRO_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_E2_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_O2_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_PERRO_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_A1_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_PATATA_BLANDA_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_CARMEN_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_BARBAS_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_CALLE_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_PAN_VINO_0083.wav
+83,HC,2016-12-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,He fell asleep in the 4th and 7th tests. I had to talk to him so he wouldn't fall asleep.,,data/audios/HC_SOMBRA_0083.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_O2_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_I2_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_PAN_VINO_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_U1_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_PIDIO_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_A2_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_CALLE_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_MANGA_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_TOMAS_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_A1_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_PATAKA_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_ACAMPADA_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_O1_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_CARMEN_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_I1_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_PETACA_BLANCA_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_BURRO_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_E2_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_DIABLO_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_PATATA_BLANDA_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_BARBAS_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_ABLANDADA_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_GANGA_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_PERRO_0085.wav
+85,HC,2016-12-01,0.0,66.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,"Deaf Orecho, but he managed to listen and repeat all the phrases. She fell asleep in a few moments, she had to be calling and talking to her sometimes.",,data/audios/HC_SOMBRA_0085.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_TOMAS_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BARBAS_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PETACA_BLANCA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PERRO_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ABLANDADA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CARMEN_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PIDIO_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ESPONTANEA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O1_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATAKA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A1_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_BURRO_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PAN_VINO_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_U1_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_PATATA_BLANDA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_O2_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_MANGA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_SOMBRA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_A2_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_GANGA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_E2_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I2_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_I1_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_CALLE_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_ACAMPADA_0086.wav
+86,HC,2016-12-01,0.0,65.0,normal,0,0,0,0,0,0,,,,,,,retired,Normal,,,data/audios/HC_DIABLO_0086.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_SOMBRA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_DIABLO_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_CARMEN_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_PERRO_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_ESPONTANEA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_PIDIO_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_O2_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_BURRO_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_E2_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_U1_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_PETACA_BLANCA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_ACAMPADA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_ABLANDADA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_I1_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_PAN_VINO_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_A2_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_BARBAS_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_GANGA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_PATATA_BLANDA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_O1_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_TOMAS_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_MANGA_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_CALLE_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_I2_0087.wav
+87,HC,2016-12-01,1.0,61.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Normal,"Smoker, his father had Parkinson's.",,data/audios/HC_A1_0087.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I2_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U2_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E2_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_MANGA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O1_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A2_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_GANGA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U1_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_SOMBRA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATATA_BLANDA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CARMEN_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CALLE_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ABLANDADA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E1_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ACAMPADA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A1_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I1_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PIDIO_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_TOMAS_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PERRO_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATAKA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_DIABLO_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PAN_VINO_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O3_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ESPONTANEA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O2_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PETACA_BLANCA_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BARBAS_0105.wav
+105,HC,,1.0,53.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BURRO_0105.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_U1_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_I2_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_E2_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_A2_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PATAKA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PERRO_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_I1_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PAN_VINO_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PIDIO_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_CARMEN_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_A1_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_ESPONTANEA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_O2_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_ABLANDADA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_MANGA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_E1_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_GANGA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_BARBAS_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_O1_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PETACA_BLANCA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_BURRO_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PATATA_BLANDA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_SOMBRA_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_TOMAS_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_DIABLO_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_CALLE_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_U2_0112.wav
+112,HC,2017-10-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_ACAMPADA_0112.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_U1_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_ACAMPADA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PIDIO_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_E2_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PATATA_BLANDA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_SOMBRA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_O1_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_BURRO_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_O2_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PATAKA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PETACA_BLANCA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_ABLANDADA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_U2_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PAN_VINO_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_A2_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_CARMEN_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_PERRO_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_E1_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_DIABLO_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_MANGA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_I2_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_TOMAS_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_A1_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_GANGA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_CALLE_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_BARBAS_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_ESPONTANEA_0116.wav
+116,HC,2017-11-01,0.0,74.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,,,data/audios/HC_I1_0116.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_DIABLO_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_ABLANDADA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_O1_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_CARMEN_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_PETACA_BLANCA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_PERRO_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_PATAKA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_BURRO_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_BARBAS_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_MANGA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_E2_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_GANGA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_ESPONTANEA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_A2_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_PAN_VINO_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_TOMAS_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_O2_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_U2_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_SOMBRA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_ACAMPADA_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_I2_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_I1_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_U1_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_A1_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_E1_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_PIDIO_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_CALLE_0118.wav
+118,HC,2017-11-01,0.0,73.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,retired,Not performed,Sister of patient H117 (H54),,data/audios/HC_PATATA_BLANDA_0118.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O1_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_GANGA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATATA_BLANDA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CALLE_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E2_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ESPONTANEA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E1_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U2_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O2_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CARMEN_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U1_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_TOMAS_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A1_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I2_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_MANGA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A2_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PIDIO_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PERRO_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATAKA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BARBAS_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_SOMBRA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BURRO_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PAN_VINO_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ACAMPADA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I1_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PETACA_BLANCA_0120.wav
+120,HC,2017-12-01,0.0,86.0,normal,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_DIABLO_0120.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E1_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U2_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A2_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PAN_VINO_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O2_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I1_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_SOMBRA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E2_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_GANGA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_MANGA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATAKA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U1_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ABLANDADA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CARMEN_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A1_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BURRO_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I2_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ESPONTANEA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BARBAS_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O1_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CALLE_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_TOMAS_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PETACA_BLANCA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_DIABLO_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PERRO_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ACAMPADA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATATA_BLANDA_0121.wav
+121,HC,2017-12-01,,,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PIDIO_0121.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I1_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A1_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_MANGA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BARBAS_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_SOMBRA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_A2_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_I2_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E2_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ACAMPADA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_GANGA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATATA_BLANDA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_TOMAS_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O2_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_O1_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CARMEN_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_E1_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PATAKA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U1_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PERRO_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_U2_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PAN_VINO_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_DIABLO_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PIDIO_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_CALLE_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_PETACA_BLANCA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ABLANDADA_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_BURRO_0122.wav
+122,HC,2018-01-01,0.0,86.0,unknown,-1,-1,-1,-1,-1,-1,,,,,,,,Not performed,,,data/audios/HC_ESPONTANEA_0122.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_E1_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_ACAMPADA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_O2_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_BARBAS_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_I1_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_ESPONTANEA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_PETACA_BLANCA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_U2_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_I2_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_BURRO_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_CALLE_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_PATATA_BLANDA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_SOMBRA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_A1_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_ABLANDADA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_PAN_VINO_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_MANGA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_O1_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_PERRO_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_PIDIO_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_CARMEN_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_TOMAS_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_U1_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_PATAKA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_DIABLO_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_GANGA_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_A2_0128.wav
+128,HC,2018-02-01,1.0,59.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Sister with PD. Only in family. Control interested news,,data/audios/HC_E2_0128.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_E2_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_U1_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_PATAKA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_BARBAS_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_A2_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_O1_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_CARMEN_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_ACAMPADA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_I1_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_PATATA_BLANDA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_GANGA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_O2_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_A1_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_TOMAS_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_PETACA_BLANCA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_PAN_VINO_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_A3_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_SOMBRA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_MANGA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_PERRO_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_DIABLO_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_I2_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_ABLANDADA_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_U2_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_BURRO_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_E1_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_PIDIO_0129.wav
+129,HC,2018-02-01,0.0,31.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,Stephany,,data/audios/HC_ESPONTANEA_0129.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_SOMBRA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_PATATA_BLANDA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_ABLANDADA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_BURRO_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_MANGA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_PIDIO_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_PAN_VINO_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_BARBAS_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_O1_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_GANGA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_A2_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_A1_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_U2_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_PERRO_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_ACAMPADA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_I2_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_CALLE_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_TOMAS_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_CARMEN_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_E1_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_I1_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_PATAKA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_PETACA_BLANCA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_ESPONTANEA_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_O2_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_U1_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_DIABLO_0130.wav
+130,HC,2018-02-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,Former smoker 2005. Mother with parkinson,,data/audios/HC_E2_0130.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_PERRO_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_CALLE_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_MANGA_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_SOMBRA_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_A1_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_I2_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_PETACA_BLANCA_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_DIABLO_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_E1_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_TOMAS_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_U1_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_I1_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_A2_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_PIDIO_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_O2_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_E2_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_BARBAS_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_PATATA_BLANDA_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_U2_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_PATAKA_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_BURRO_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_E3_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_O1_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_PAN_VINO_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_ACAMPADA_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_GANGA_0131.wav
+131,HC,2018-02-01,1.0,65.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_CARMEN_0131.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_ACAMPADA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_TOMAS_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_PETACA_BLANCA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_E1_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_CALLE_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_SOMBRA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_I1_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_MANGA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_U2_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_PATAKA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_E2_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_PATATA_BLANDA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_ABLANDADA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_CARMEN_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_BURRO_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_I2_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_U1_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_PIDIO_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_O2_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_A1_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_GANGA_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_PERRO_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_PAN_VINO_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_DIABLO_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_A2_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_O1_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_BARBAS_0132.wav
+132,HC,2018-02-01,0.0,59.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,"Argentina (without accent), far-off parkinson antecedent, non-smoker for 20 years",,data/audios/HC_ESPONTANEA_0132.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_DIABLO_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_MANGA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_PIDIO_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_PERRO_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_A1_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_PATATA_BLANDA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_A2_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_PATAKA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_CARMEN_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_TOMAS_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_ABLANDADA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_O2_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_GANGA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_PETACA_BLANCA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_E1_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_ESPONTANEA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_I1_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_ACAMPADA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_BARBAS_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_PAN_VINO_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_U2_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_I2_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_CALLE_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_BURRO_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_SOMBRA_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_U1_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_O1_0133.wav
+133,HC,2018-02-01,0.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Auntie with parkinson, not a smoker",,data/audios/HC_E2_0133.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_CARMEN_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_A2_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_GANGA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_PATAKA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_PATATA_BLANDA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_PAN_VINO_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_PERRO_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_ABLANDADA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_MANGA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_E1_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_PIDIO_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_ESPONTANEA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_TOMAS_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_SOMBRA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_DIABLO_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_U1_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_ACAMPADA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_E2_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_PETACA_BLANCA_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_CALLE_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_BARBAS_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_O2_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_BURRO_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_O1_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_I2_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_I1_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_U2_0134.wav
+134,HC,2018-02-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, some roughness (R=1?), no family members with a Parkinson’s background",,data/audios/HC_A1_0134.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_E1_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_CALLE_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_CARMEN_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_PAN_VINO_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_I2_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_O1_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_BARBAS_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_MANGA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_PETACA_BLANCA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_I1_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_ESPONTANEA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_U2_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_O2_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_GANGA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_ABLANDADA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_TOMAS_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_BURRO_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_DIABLO_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_ACAMPADA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_A2_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_A1_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_SOMBRA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_PIDIO_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_PATATA_BLANDA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_PATAKA_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_E2_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_U1_0135.wav
+135,HC,2018-03-01,1.0,,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Smoking, Daltonism, 2 family members with parkinson",,data/audios/HC_PERRO_0135.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_E2_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_O1_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_ABLANDADA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_I2_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_BURRO_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_E1_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_U1_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_CALLE_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_GANGA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_PATATA_BLANDA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_CARMEN_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_I1_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_A2_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_MANGA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_BARBAS_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_O2_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_A1_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_U2_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_TOMAS_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_PERRO_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_DIABLO_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_SOMBRA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_ESPONTANEA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_PETACA_BLANCA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_ACAMPADA_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_PAN_VINO_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_PIDIO_0136.wav
+136,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"Non-smoker, father parkinson",,data/audios/HC_PATAKA_0136.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_PETACA_BLANCA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_PATAKA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_E1_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_O1_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_CARMEN_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_U2_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_CALLE_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_ACAMPADA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_BARBAS_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_TOMAS_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_DIABLO_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_BURRO_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_PAN_VINO_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_PATATA_BLANDA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_I1_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_MANGA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_A2_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_ABLANDADA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_E2_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_A1_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_PIDIO_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_GANGA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_PERRO_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_ESPONTANEA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_I2_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_O2_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_SOMBRA_0137.wav
+137,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"No smoker, no family history of parkinson",,data/audios/HC_U1_0137.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_PAN_VINO_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_ACAMPADA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_ABLANDADA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_O2_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_SOMBRA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_GANGA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_TOMAS_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_PATATA_BLANDA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_BARBAS_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_ESPONTANEA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_PIDIO_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_PERRO_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_A1_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_A2_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_PETACA_BLANCA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_CALLE_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_I1_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_BURRO_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_E2_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_O1_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_PATAKA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_U2_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_U1_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_E1_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_MANGA_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_DIABLO_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_I2_0138.wav
+138,HC,2018-03-01,1.0,56.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,Non-smoker,,data/audios/HC_CARMEN_0138.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_GANGA_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_E1_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_O1_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_CARMEN_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_ACAMPADA_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_MANGA_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_TOMAS_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_A1_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_PATATA_BLANDA_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_I1_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_U1_0139.wav
+139,HC,2018-03-01,1.0,54.0,normal,0,0,0,0,0,0,,,,,,,profesor,Not performed,,,data/audios/HC_ABLANDADA_0139.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_U2_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PETACA_BLANCA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PATATA_BLANDA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PERRO_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_BURRO_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_DIABLO_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_BARBAS_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_CALLE_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_ACAMPADA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_GANGA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PATAKA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_A2_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_ABLANDADA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_I1_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_U1_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_O2_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_A1_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_MANGA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_E1_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_E2_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PIDIO_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_TOMAS_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PAN_VINO_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_CARMEN_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_I2_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_ESPONTANEA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_SOMBRA_0140.wav
+140,HC,2018-04-01,1.0,53.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_O1_0140.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PATATA_BLANDA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PETACA_BLANCA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_BARBAS_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_A1_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_ABLANDADA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_ACAMPADA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_I1_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_E1_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_O1_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_CARMEN_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PERRO_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_BURRO_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_ESPONTANEA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_U1_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PAN_VINO_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_I2_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_U2_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_GANGA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_SOMBRA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_E2_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PATAKA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_TOMAS_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_A3_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_CALLE_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_PIDIO_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_A2_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_MANGA_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_O2_0141.wav
+141,HC,2018-04-01,1.0,55.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,,,data/audios/HC_DIABLO_0141.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_A1_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_I2_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_U1_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_TOMAS_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_DIABLO_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_ESPONTANEA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_BURRO_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_SOMBRA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_PIDIO_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_PATAKA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_O1_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_PATATA_BLANDA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_U2_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_O2_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_CALLE_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_E1_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_ACAMPADA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_ABLANDADA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_I1_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_GANGA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_MANGA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_BARBAS_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_PETACA_BLANCA_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_CARMEN_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_PAN_VINO_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_PERRO_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_E2_0142.wav
+142,HC,2018-04-01,1.0,60.0,normal,0,0,0,0,0,0,,,,,,,administrativo,Not performed,"Smoker, no family history of parkinson",,data/audios/HC_A2_0142.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_ESPONTANEA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_SOMBRA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_A1_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_PATATA_BLANDA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_CALLE_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_PAN_VINO_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_E1_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_U1_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_A2_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_ABLANDADA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_GANGA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_BARBAS_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_ACAMPADA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_E2_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_O2_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_PERRO_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_TOMAS_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_MANGA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_DIABLO_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_U2_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_I1_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_O1_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_PATAKA_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_I2_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_CARMEN_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_BURRO_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_PIDIO_0143.wav
+143,HC,2018-04-01,0.0,71.0,normal,0,0,0,0,0,0,,,,,,,retired teacher,Not performed,"ex-teacher, incipient cataracts, astigmatism and tired sight, 2 family members with parkinson (girl and cousin sister)",,data/audios/HC_PETACA_BLANCA_0143.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_PERRO_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_O1_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_E2_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_BURRO_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_PATATA_BLANDA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_A2_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_ACAMPADA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_ESPONTANEA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_PATAKA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_U1_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_PIDIO_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_MANGA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_A1_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_TOMAS_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_PAN_VINO_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_U2_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_I2_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_I1_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_ABLANDADA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_SOMBRA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_CARMEN_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_BARBAS_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_PETACA_BLANCA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_O2_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_GANGA_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_DIABLO_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_CALLE_0144.wav
+144,HC,2018-05-01,0.0,38.0,normal,0,0,0,0,0,0,,,,,,,representante-de-ventas,Not performed,"No history of parkinson, no smoker, no drinker, Ecuadorian",,data/audios/HC_E1_0144.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_ESPONTANEA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_DIABLO_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_BURRO_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_E1_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_A1_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_BARBAS_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_MANGA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_CALLE_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_PATAKA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_GANGA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_PIDIO_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_ABLANDADA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_I1_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_PETACA_BLANCA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_CARMEN_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_O1_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_ACAMPADA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_PATATA_BLANDA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_SOMBRA_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_TOMAS_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_PERRO_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_PAN_VINO_0145.wav
+145,HC,2018-06-01,1.0,57.0,normal,0,0,0,0,0,0,,,,,,,,Not performed,"88-year-old aunt with neurological disease, tremors, does not know the exact diagnosis",,data/audios/HC_U1_0145.wav
