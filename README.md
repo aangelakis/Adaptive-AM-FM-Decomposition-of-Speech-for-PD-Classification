@@ -60,8 +60,8 @@ Each file assigns every speaker to one outer fold per repeat (`Repeat_1_Fold` â€
 | `XGBoost/` | `XGBoost_NeuroVoz.ipynb` | eaQHM | NeuroVoz |
 | `XGBoost/` | `XGBoost_eGeMAPS_PC-GITA.ipynb` | eGeMAPS | PC-GITA |
 | `XGBoost/` | `XGBoost_eGeMAPS_NeuroVoz.ipynb` | eGeMAPS | NeuroVoz |
-| `WavLM/` | `SSL4PR_PC-GITA.ipynb` | Raw audio (WavLM-Base) | PC-GITA |
-| `WavLM/` | `SSL4PR_NeuroVoz.ipynb` | Raw audio (WavLM-Base) | NeuroVoz |
+| `WavLM/` | `WavLM_PC-GITA.ipynb` | Raw audio (WavLM-Base) | PC-GITA |
+| `WavLM/` | `WavLM_NeuroVoz.ipynb` | Raw audio (WavLM-Base) | NeuroVoz |
 
 ## Features
 
